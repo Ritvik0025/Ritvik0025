@@ -11,7 +11,7 @@ I'm currently working on the new project related to orchard system managemenat a
 ![](https://github-readme-stats.shion.dev/api?username=Ritvik0025&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ritvik0025&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ritvik0025&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-F89F1B?logo=leetcode&logoColor=white)](https://leetcode.com/u/ribhu0110/)
 ---
 [![](https://komarev.com/ghpvc/?username=Ritvik0025&icon=0&color=0)](https://visitcount.itsvg.in)
 
